@@ -1,0 +1,9 @@
+lena_SG_blablabla_54321
+
+another_nice_SG_lena_98765
+
+
+SECRET_TOKEN = "1f8e1c7a-2b4d-45f3-824e-1e6a2c8b9d3e"
+
+
+AGAIN_SECRET_TOKEN= "1f8e1c7a-2b4d-45f3-824e-1e6a2c8b9d3e"
